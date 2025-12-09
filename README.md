@@ -167,7 +167,6 @@ type AddedItem = Item & {
 
 This project is proprietary. All rights reserved.
 
-## Support
+## Example
 
-For issues or feature requests, please contact the development team.
 <img width="541" height="432" alt="bill" src="https://github.com/user-attachments/assets/6e106c0b-12b5-424a-8d08-5411cc15d9ff" />
